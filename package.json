@@ -1,12 +1,36 @@
 {
-  "name": "8-magic-npx",
+  "name": "8-magic-cli",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A clairvoyant piece of software, in your CLI",
+  "main": "dist/index.js",
+  "type": "module",
+  "keywords": [
+    "8-Magic",
+    "8-Ball",
+    "8-Ball magic"
+  ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npx tsc"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "Git",
+    "directory": "https://github.com/8-Magic/8-magic-npx"
+  },
+  "homepage": "https://8.alialmasi.ir",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "author": "8-Magic Team",
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3"
+  },
+  "bin": {
+    "8-magic": "dist/index.js"
+  },
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.4.1",
+    "commander": "^14.0.0",
+    "ora": "^8.2.0"
+  }
 }
