@@ -1,5 +1,5 @@
 {
-  "name": "8-magic-cli",
+  "name": "8-magic",
   "version": "1.0.0",
   "description": "A clairvoyant piece of software, in your CLI",
   "main": "dist/index.js",
@@ -13,7 +13,7 @@
     "start": "npx tsc"
   },
   "repository": {
-    "type": "Git",
+    "type": "git",
     "directory": "https://github.com/8-Magic/8-magic-npx"
   },
   "homepage": "https://8.alialmasi.ir",
