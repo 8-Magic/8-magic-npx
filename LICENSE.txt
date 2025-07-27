@@ -1,0 +1,26 @@
+8-Magic Public License — Inspired by CC BY-NC-SA 4.0
+
+Copyright (c) 2025 The 8-Magic Team
+
+Permission is hereby granted to any person obtaining a copy of this software and associated documentation files (the “Software”), to use, copy, modify, and distribute the Software, subject to the following conditions:
+
+1. **Attribution (BY)**  
+   You must give appropriate credit, provide a link to this license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+2. **NonCommercial (NC)**  
+   You may not use the Software for commercial purposes. This includes, but is not limited to:
+   - Selling or licensing the Software
+   - Using the Software as part of a paid service or product
+   - Monetizing access to the Software
+
+3. **ShareAlike (SA)**  
+   If you remix, transform, or build upon the Software, you must distribute your contributions under the same license as the original.
+
+4. **No Warranty**  
+   The Software is provided "as is", without warranty of any kind, express or implied. The author is not liable for any damages arising from the use of this Software.
+
+---
+
+This license is inspired by the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0), but adapted specifically for software use. Creative Commons does not recommend its licenses for software; this is a custom adaptation intended to reflect similar terms in a software-appropriate context.
+
+For the original CC BY-NC-SA 4.0 license, see: https://creativecommons.org/licenses/by-nc-sa/4.0/
