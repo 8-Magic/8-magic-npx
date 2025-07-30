@@ -4,29 +4,20 @@ Get answers for your mysterious questions anywhere 🔮
 
 ## Installation and usage
 
-You can run it directly with [`npx`](https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/) (no install needed):
+> Note: you need to install `npm` and `npx` in your computer before using this. [Read this for more info](https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/).
+
+You can run it directly with `npx`:
 
 ```bash
 npx 8-magic
 ```
 
-Or install globally:
-
-```bash
-npm install -g 8-magic
-```
-
-then run:
-
-```bash
-8-magic
-```
+> Tip: you can see command options by running `npx 8-magic -h`
 
 ## See Also
 
 - [8-Magic API](https://api.8.alialmasi.ir)
 - [8-Magic CLI](https://github.com/8-Magic/8-magic-cli)
-
 
 ## License
 
