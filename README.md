@@ -14,6 +14,12 @@ npx 8-magic
 
 > Tip: you can see command options by running `npx 8-magic -h`
 
+If you don't have `npx` installed (or if you don't wanna install it), you can [use the CLI](https://github.com/8-Magic/8-magic-cli):
+
+```bash
+curl https://cli.8.alialmasi.ir
+```
+
 ## See Also
 
 - [8-Magic API](https://api.8.alialmasi.ir)
