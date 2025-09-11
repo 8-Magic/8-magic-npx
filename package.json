@@ -1,7 +1,7 @@
 {
   "name": "8-magic",
-  "version": "1.0.1",
-  "description": "A clairvoyant piece of software, in your CLI",
+  "version": "1.0.2",
+  "description": "A clairvoyant Node package for your CLI",
   "main": "dist/index.js",
   "type": "module",
   "keywords": [
